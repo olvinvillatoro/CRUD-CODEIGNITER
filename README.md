@@ -12,8 +12,8 @@
 
 - Utilizando Modelo, Vista y Controlador crear una pagina web que permita.
     - Crear una persona.  
-    - Mostrar la información las personas registradas en la base datos. 
-    - Editar la informacion de una persona existentes;
+    - Mostrar la información de las personas registradas en la base datos. 
+    - Editar la información de una persona existentes.
     - Eliminar una persona.
 	
 - Opcional:
