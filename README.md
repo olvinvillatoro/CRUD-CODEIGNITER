@@ -11,7 +11,7 @@
 - Hacer las configuraciones necesarias para conectar CodeIgniter con SQL Server
 
 - Utilizando Modelo, Vista y Controlador crear una pagina web que permita.
-    - Registrar una persona.  
+    - Crear una persona.  
     - Mostrar la información las personas registradas en la base datos. 
     - Editar la informacion de una persona existentes;
     - Eliminar una persona.
